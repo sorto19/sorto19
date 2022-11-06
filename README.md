@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sorto25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sorto25" height="30" width="40" /></a>
+<a href="https://twitter.com/ramonsorto25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramonsorto25" height="30" width="40" /></a>
 <a href="https://fb.com/ramon sorto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramon sorto" height="30" width="40" /></a>
-<a href="https://instagram.com/ramonsorto19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramonsorto19" height="30" width="40" /></a>
+<a href="https://instagram.com/ramon19sorto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramon19sorto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
